@@ -11,5 +11,3 @@ Alcanzable (Achievable): El objetivo del 15% de aumento en la satisfacción y re
 Relevante (Relevant): Aumentar la satisfacción y retención de los miembros es relevante para el éxito a largo plazo de Megatlon, ya que un mayor nivel de satisfacción conducirá a una lealtad más sólida y una base de miembros más sólida.
 
 Acotado en el tiempo (Time-bound): El objetivo tiene un período de tiempo definido de 12 meses para lograr el aumento del 15% en la satisfacción y retención de los miembros.
-
-Recuerda que este es solo un ejemplo y puedes adaptar el objetivo general SMART a los objetivos y metas específicas que Megatlon tenga en mente. Asegúrate de establecer indicadores clave de rendimiento (KPIs) y desarrollar estrategias y acciones concretas para alcanzar este objetivo.
